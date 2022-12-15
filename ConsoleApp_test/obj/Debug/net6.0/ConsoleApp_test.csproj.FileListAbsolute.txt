@@ -1,0 +1,17 @@
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\bin\Debug\net6.0\ConsoleApp_test.exe
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\bin\Debug\net6.0\ConsoleApp_test.deps.json
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\bin\Debug\net6.0\ConsoleApp_test.runtimeconfig.json
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\bin\Debug\net6.0\ConsoleApp_test.dll
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\bin\Debug\net6.0\ConsoleApp_test.pdb
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\bin\Debug\net6.0\HtmlAgilityPack.NetCore.dll
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ConsoleApp_test.csproj.AssemblyReference.cache
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ConsoleApp_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ConsoleApp_test.AssemblyInfoInputs.cache
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ConsoleApp_test.AssemblyInfo.cs
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ConsoleApp_test.csproj.CoreCompileInputs.cache
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ConsoleApp_test.csproj.CopyComplete
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ConsoleApp_test.dll
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\refint\ConsoleApp_test.dll
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ConsoleApp_test.pdb
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ConsoleApp_test.genruntimeconfig.cache
+C:\C#\.net core\ConsoleApp_test\ConsoleApp_test\obj\Debug\net6.0\ref\ConsoleApp_test.dll
